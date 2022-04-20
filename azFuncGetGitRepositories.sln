@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azFuncGetGitRepositories", "azFuncGetGitRepositories\azFuncGetGitRepositories.csproj", "{4EA51DE2-E869-4086-BD91-51BE29A2F9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA51DE2-E869-4086-BD91-51BE29A2F9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA51DE2-E869-4086-BD91-51BE29A2F9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA51DE2-E869-4086-BD91-51BE29A2F9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA51DE2-E869-4086-BD91-51BE29A2F9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F76A383-F19D-4F1A-8C5F-161EF0332F28}
+	EndGlobalSection
+EndGlobal
